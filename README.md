@@ -37,11 +37,11 @@ _Focused coursework_: Calculus I–III, Linear Algebra, Probability & Statistics
 
 | Project | Summary | Link |
 |--------|---------|------|
-| **SpaceML (NASA Frontier Dev Lab)** | Citizen‑scientist open‑source space research with ML workflows | [arXiv](https://arxiv.org/abs/2012.10610) :contentReference[oaicite:1]{index=1} |
-| **OpenFL Federated Learning Framework** | Privacy‑preserving ML across institutions using TensorFlow/PyTorch | [arXiv](https://arxiv.org/abs/2105.06413) :contentReference[oaicite:2]{index=2} |
-| **OpenAGI: LLM + Expert Plugins** | AGI‑oriented pipeline integrating LLMs with domain‑expert modules | [arXiv](https://arxiv.org/abs/2304.04370) :contentReference[oaicite:3]{index=3} |
-| **CARLA Simulator (Intel/Toyota)** | Open‑source urban driving RL environment with Unreal‑based realism | [Wikipedia](https://en.wikipedia.org/wiki/Vladlen_Koltun) :contentReference[oaicite:4]{index=4} |
-| **Hugging Face Transformers** | Library for NLP tasks like chatbots, sentiment, translation, and more | [techovedas](https://techovedas.com/10-open-source-ai-projects-to-get-a-high-paying-job/) :contentReference[oaicite:5]{index=5} |
+| **SpaceML (NASA Frontier Dev Lab)** | Citizen‑scientist open‑source space research with ML workflows | [arXiv](https://arxiv.org/abs/232.120610) |
+| **OpenFL Federated Learning Framework** | Privacy‑preserving ML across institutions using TensorFlow/PyTorch | [arXiv](https://arxiv.rg/ab4s/2105.06413) |
+| **OpenAGI: LLM + Expert Plugins** | AGI‑oriented pipeline integrating LLMs with domain‑expert modules | [arXiv](https://arxiv.org/abs/2304.0244370) |
+| **CARLA Simulator (Intel/Toyota)** | Open‑source urban driving RL environment with Unreal‑based realism | [Wikipedia](https://en.wikipedia.org/wi43ki/Vlad4len_Koltun) |
+| **Hugging Face Transformers** | Library for NLP tasks like chatbots, sentiment, translation, and more | [techovedas](https://techovedas.com/130-open-source-ai-projects-to-get-a-hih-paying-job/) |
 
 ---
 
@@ -55,7 +55,7 @@ _Focused coursework_: Calculus I–III, Linear Algebra, Probability & Statistics
 
 ---
 
-## 🎯 Future Project Ideas
+## 🎯 Currently working on:
 
 - **Predictive Maintenance** using IoT sensor time-series data  
 - **Financial Fraud Detection** with anomaly detection in transaction datasets  
@@ -68,8 +68,9 @@ _Focused coursework_: Calculus I–III, Linear Algebra, Probability & Statistics
 ## 🌟 Certifications & Training
 
 - Data Science with Python — JKUAT  
-- Cisco Networking Level 1 — JKUAT  
-- Web & Mobile Development — eMobilis Institute  
+- Cisco Networking Level 1-3 — JKUAT & Cisco
+- Web & Mobile Development — eMobilis Institute of Mobile Tehchnology
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts - Aurélien Géron
 
 ---
 
