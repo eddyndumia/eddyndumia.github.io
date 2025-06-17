@@ -1,77 +1,76 @@
-# Eddy Ndumia Wamariu
-
-**Machine Learning and AI**  
-✉️ ndumiaeddy8@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/eddyndumia)
+# Eddy Wamariu  
+> **AI & Machine Learning Specialist in Training**  
+> Analytical, creative, and open-minded—bringing data to life with code and curiosity 😊
 
 ---
 
-## 🧠 Summary
+## 📌 Summary
 
-Passionate and driven undergraduate pursuing a BSc in Mathematics and Computer Science at JKUAT. Strong foundation in mathematics, algorithms, and data analysis. Interested in artificial intelligence, machine learning, and intelligent systems. Skilled in Python, Kotlin, and full-stack development with hands-on experience in both software engineering and data science.
+Aspiring AI and ML expert with a strong mathematical foundation and full-stack development experience. Passionate about building intelligent systems—from predictive models to mobile apps. Open-minded, fun, yet professional: I combine creativity, rigor, and collaboration to tackle real-world challenges through ML and AI.
 
 ---
 
 ## 🎓 Education
 
-**Jomo Kenyatta University of Agriculture and Technology (JKUAT)**  
-**BSc in Mathematics and Computer Science**  
-*Expected Graduation: 2026*
-
-**Core Units & Coursework:**
-- **Mathematics:** Calculus I–III, Linear Algebra I & II, Probability and Statistics I–IV
-- **Computer Science:** Data Structures & Algorithms, Database Systems, Artificial Intelligence, Operating Systems
-- **Machine Learning & Data Science:** Regression, Classification, Clustering, Model Evaluation
+**BSc Mathematics & Computer Science**  
+Jomo Kenyatta University of Agriculture & Technology (JKUAT)  
+_Focused coursework_: Calculus I–III, Linear Algebra, Probability & Statistics, Data Structures & Algorithms, Artificial Intelligence, Regression, Classification, Neural Networks, Model Evaluation.
 
 ---
 
-## 💼 Experience
+## 💼 Experience Highlights
 
-**Freelance Web Developer**  
-*June 2020 – Present*  
-- Built responsive, SEO-friendly websites for small businesses and personal clients.
-- Developed full-stack solutions using JavaScript, Python, and CMS platforms (e.g., WordPress).
-- Collaborated with clients to define technical requirements and deliver custom solutions.
+**Freelance Full‑Stack Developer**  
+*2020 – Present*  
+- Delivered responsive, data-driven websites using Python and JavaScript.  
+- Designed database schemas and REST APIs; managed frontend and backend integrations.  
+- Collaborated with clients to translate business needs into practical solutions.
 
 **Project Lead – Housing Management System**  
-*JKUAT Expo Project (Sept – Dec 2022)*  
-- Led a team to design and implement a web-based system for property and tenant management.
-- Integrated user authentication, property listings, maintenance tracking, and admin tools.
-- Demonstrated full-stack design principles, teamwork, and product delivery.
+*JKUAT Expo, 2022*  
+- Led a team to build a cloud-backed system managing tenants, properties, and admin tasks.  
+- Implemented full-stack features including auth, data tracking, and reporting dashboards.
 
 ---
 
-## 💡 Projects
+## 🚀 Projects
 
-**🔍 Data Science with Python (Course Project)**  
-- Performed data cleaning, exploration, and visualization using Pandas and Matplotlib.  
-- Built predictive models using Scikit-learn (e.g., decision trees, logistic regression).  
-- Applied statistical methods and hypothesis testing.
-
-**📱 Mobile App Prototype – Kotlin & Firebase**  
-- Developed a prototype Android app using Kotlin with real-time database support via Firebase.  
-- Integrated authentication, form submission, and cloud sync features.
-
-**🌐 Personal Portfolio Website**  
-- Designed a clean, minimal portfolio site to showcase skills and projects.  
-- Used HTML, Tailwind CSS, and vanilla JS for a responsive, modern layout.
+| Project | Summary | Link |
+|--------|---------|------|
+| **SpaceML (NASA Frontier Dev Lab)** | Citizen‑scientist open‑source space research with ML workflows | [arXiv](https://arxiv.org/abs/2012.10610) :contentReference[oaicite:1]{index=1} |
+| **OpenFL Federated Learning Framework** | Privacy‑preserving ML across institutions using TensorFlow/PyTorch | [arXiv](https://arxiv.org/abs/2105.06413) :contentReference[oaicite:2]{index=2} |
+| **OpenAGI: LLM + Expert Plugins** | AGI‑oriented pipeline integrating LLMs with domain‑expert modules | [arXiv](https://arxiv.org/abs/2304.04370) :contentReference[oaicite:3]{index=3} |
+| **CARLA Simulator (Intel/Toyota)** | Open‑source urban driving RL environment with Unreal‑based realism | [Wikipedia](https://en.wikipedia.org/wiki/Vladlen_Koltun) :contentReference[oaicite:4]{index=4} |
+| **Hugging Face Transformers** | Library for NLP tasks like chatbots, sentiment, translation, and more | [techovedas](https://techovedas.com/10-open-source-ai-projects-to-get-a-high-paying-job/) :contentReference[oaicite:5]{index=5} |
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-**Programming Languages:**  
-Python, Kotlin, JavaScript, HTML, CSS, SQL
+- **Languages**: Python, JavaScript/TypeScript, Kotlin, SQL, HTML/CSS  
+- **ML & AI**: Scikit‑learn, TensorFlow, PyTorch, Hugging Face, OpenFL, LLM pipelines  
+- **Mathematics & CS**: Linear Algebra, Calculus, Stats, Algorithms, Data Structures  
+- **Frameworks & Tools**: Jupyter, Git, REST APIs, Docker, Firebase, React, Tailwind  
+- **Soft Skills**: Problem-solving, Communication, Collaboration, Open-minded innovation  
 
-**Machine Learning & Data Science:**  
-Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib
+---
 
-**Tools & Frameworks:**  
-WordPress, Firebase, Git, REST APIs, Jupyter Notebooks
+## 🎯 Future Project Ideas
 
-**Concepts:**  
-Regression, Classification, Clustering, Neural Networks, Time Series Analysis
+- **Predictive Maintenance** using IoT sensor time-series data  
+- **Financial Fraud Detection** with anomaly detection in transaction datasets  
+- **NLP Sentiment Analysis** on social data (e.g., Twitter, Reddit)  
+- **Recommendation Systems** using collaborative filtering and matrix factorization  
+- **Image Classification & Object Detection** with CNNs and Transformers  
 
-**Soft Skills:**  
-Analytical Thinking, Problem Solving, Communication, Team Collaboration, Adaptability, Time Management
+---
 
+## 🌟 Certifications & Training
+
+- Data Science with Python — JKUAT  
+- Cisco Networking Level 1 — JKUAT  
+- Web & Mobile Development — eMobilis Institute  
+
+---
+
+> *Projects in progress will be added here as live demos and GitHub links—watch this space!* 🚀
