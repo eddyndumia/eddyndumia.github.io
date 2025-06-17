@@ -1,12 +1,12 @@
 # Eddy Wamariu  
-> **AI & Machine Learning Specialist in Training**  
-> Analytical, creative, and open-minded—bringing data to life with code and curiosity 😊
+> **Data Science, AI & Machine Learning**  
+> Analytical, creative, and open-minded
 
 ---
 
 ## 📌 Summary
 
-Aspiring AI and ML expert with a strong mathematical foundation and full-stack development experience. Passionate about building intelligent systems—from predictive models to mobile apps. Open-minded, fun, yet professional: I combine creativity, rigor, and collaboration to tackle real-world challenges through ML and AI.
+Junior AI and ML expert with a strong mathematical foundation and full-stack development experience. Passionate about building intelligent systems—from predictive models to mobile apps. Open-minded, fun, yet professional: I combine creativity, rigor, and collaboration to tackle real-world challenges through ML and AI.
 
 ---
 
