@@ -1,7 +1,6 @@
 # Eddy Ndumia Wamariu
 
 **Machine Learning and AI**  
-Tetu, Nyeri, Kenya   
 ✉️ ndumiaeddy8@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/eddyndumia)
 
@@ -17,7 +16,7 @@ Passionate and driven undergraduate pursuing a BSc in Mathematics and Computer S
 
 **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**  
 **BSc in Mathematics and Computer Science**  
-*Expected Graduation: [Add year]*
+*Expected Graduation: 2026*
 
 **Core Units & Coursework:**
 - **Mathematics:** Calculus I–III, Linear Algebra I & II, Probability and Statistics I–IV
@@ -76,16 +75,3 @@ Regression, Classification, Clustering, Neural Networks, Time Series Analysis
 **Soft Skills:**  
 Analytical Thinking, Problem Solving, Communication, Team Collaboration, Adaptability, Time Management
 
----
-
-## 🏆 Certifications
-
-- **Cisco Networking (Level 1)** – JKUAT (Apr 2021 – Jul 2021)  
-- **Data Science with Python** – JKUAT (Jan 2022 – Apr 2022)  
-- **Web & Mobile App Development** – eMobilis Institute (2020)
-
----
-
-## 📬 References
-
-Available upon request.
