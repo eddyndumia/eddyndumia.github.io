@@ -1,0 +1,51 @@
+name: Build portfolio and deploy root site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Rebuild daily after the source site's Nairobi-time publishing window.
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.152.2
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: eddyndumia/Eddy-Ndumia-Personal-Portfolio
+          ref: main
+          path: source
+          submodules: recursive
+      - name: Install Hugo
+        run: |
+          wget -q -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb
+          sudo dpkg -i hugo.deb
+      - uses: actions/configure-pages@v5
+      - name: Build
+        run: hugo --source source --destination "$GITHUB_WORKSPACE/_site" --minify --baseURL "https://eddyndumia.github.io/"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
